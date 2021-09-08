@@ -7,9 +7,9 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Toolchain
+title:            Cloud-Toolchain
 tagline:          'Tooling is life'
-description:      'Helping Devs in Shuttertstock'
+description:      'Helping Dev Teams in Shuttertstock with Tooling'
 url:              https://toonjohners.github.io/docs/
 baseurl:          https://toonjohners.github.io/docs/
 
