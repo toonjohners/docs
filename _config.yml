@@ -15,8 +15,8 @@ baseurl:          https://toonjohners.github.io/docs/
 site:             https://toonjohners.github.io/docs/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'John McCormack'
+  url:            blah
 
 paginate:         5
 
@@ -24,4 +24,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/toonjohners/docs
