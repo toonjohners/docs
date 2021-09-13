@@ -24,7 +24,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-<<<<<<< HEAD
   repo:           https://github.com/poole/hyde
 
 
@@ -46,4 +45,3 @@ whitelist:
   - jekyll-redirect-from
 =======
   repo:           https://github.com/toonjohners/docs
->>>>>>> e031ccf51638dd6838f158517f20935fc2c14d4a
