@@ -12,7 +12,7 @@ tagline:          'Tooling is life'
 description:      'Helping Dev Teams in Shuttertstock with Tooling'
 url:              https://toonjohners.github.io/docs/
 baseurl:          https://toonjohners.github.io/docs/
-site:             https://toonjohners.github.io/docs/
+site:             /docs/
 
 author:
   name:           'John McCormack'
