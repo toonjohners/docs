@@ -10,9 +10,9 @@ permalink:        pretty
 title:            Cloud-Toolchain
 tagline:          'Tooling is life'
 description:      'Helping Dev Teams in Shuttertstock with Tooling'
-url:              https://toonjohners.github.io/
-baseurl:          https://toonjohners.github.io/docs
-site:             https://toonjohners.github.io/docs
+url:              https://toonjohners.github.io/docs/
+baseurl:          https://toonjohners.github.io/docs/
+site:             https://toonjohners.github.io/docs/
 
 author:
   name:           'John McCormack'
