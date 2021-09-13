@@ -11,7 +11,7 @@ title:            Cloud-Toolchain
 tagline:          'Tooling is life'
 description:      'Helping Dev Teams in Shuttertstock with Tooling'
 url:              https://toonjohners.github.io/docs/
-baseurl:          https://toonjohners.github.io/docs/
+baseurl:          /docs
 site:             https://toonjohners.github.io/docs/
 
 author:
@@ -24,7 +24,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/toonjohners/docs
 
 
 github: [metadata]
@@ -43,5 +43,5 @@ whitelist:
   - jekyll-mentions
   - jekyll-paginate
   - jekyll-redirect-from
-=======
-  repo:           https://github.com/toonjohners/docs
+
+repo:           https://github.com/toonjohners/docs
