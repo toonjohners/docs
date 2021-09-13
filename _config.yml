@@ -11,7 +11,7 @@ title:            Cloud-Toolchain
 tagline:          'Tooling is life'
 description:      'Helping Dev Teams in Shuttertstock with Tooling'
 url:              https://toonjohners.github.io/
-baseurl:          /docs
+baseurl:          /docs/
 site:             https://toonjohners.github.io/
 
 author:
