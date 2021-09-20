@@ -18,7 +18,7 @@ nav_order: 8
 ```yaml
 # You can get help in the following channels 
 
-Support and Help for the pipeline: #cloud-toolchain
-Serverless Solutions and best practices: #serverless
+Support and Help for the pipeline: "#cloud-toolchain"
+Serverless Solutions and best practices: "#serverless"
 
 ```
