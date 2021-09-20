@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Serverless
-nav_order: 8
+nav_order: 1
 ---
 
 ## Table of contents
