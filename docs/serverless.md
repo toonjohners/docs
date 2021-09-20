@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Serverless
 nav_order: 8
 ---
 
