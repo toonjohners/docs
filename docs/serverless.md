@@ -22,3 +22,11 @@ Support and Help for the pipeline: [#cloud-toolchain](https://shutterstock.slack
 Serverless Solutions and best practices: [#serverless](https://shutterstock.slack.com/archives/C023FP790HL)
 
 ```
+
+
+### The Team 
+
+![John McCormack](https://avatars.githubusercontent.com/u/5584582?s=60&v=4)
+
+https://github.com/toonjohners
+
