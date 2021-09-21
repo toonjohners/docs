@@ -6,17 +6,41 @@ description: "Writing Good Docs for better Developer Experience."
 permalink: /
 ---
 
-# Cloud-ToolChain Team on [Slack](https://shutterstock.slack.com/archives/C02A7QW1079)
+# Cloud-ToolChain Docs [Slack]
 {: .fs-9 }
 
 Writing Good Docs for better Developer Experience.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Slack](https://shutterstock.slack.com/archives/C02A7QW1079){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [JIRA Board](https://shutterstock-jira.codefactori.com/projects/CLDTC/issues){: .btn .fs-5 .mb-4 .mb-md-0 } [Github Docs](https://github.shuttercorp.net/Cloud-Engineering/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## ToolChain Team
+
+![](https://github.shuttercorp.net/avatars/u/1065?s=60) [John McCormack](https://github.shuttercorp.net/jmccormack)
+![](https://github.shuttercorp.net/avatars/u/1233?s=60) [Dan Robinson ](https://github.shuttercorp.net/drobinson)
+![](https://github.shuttercorp.net/avatars/u/977?s=60) [Shawn Qureshi](https://github.shuttercorp.net/squreshi)
+![](https://github.shuttercorp.net/avatars/u/1116?s=60) [Josh Durbin](https://github.shuttercorp.net/jdurbin)
+
+
+
+
+### Contributing
+
+When contributing to this repository, please first discuss the change you wish to make via PR, or [Slack](https://shutterstock.slack.com/archives/C02A7QW1079) 
+
+#### Thank you to the contributors of this doc site!
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>
+
+
 
 ### Dependencies
 
