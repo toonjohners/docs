@@ -6,7 +6,7 @@ description: "Writing Good Docs for better Developer Experience."
 permalink: /
 ---
 
-# Cloud-ToolChain Docs [Slack]
+# Cloud-ToolChain Docs 
 {: .fs-9 }
 
 Writing Good Docs for better Developer Experience.
@@ -18,10 +18,10 @@ Writing Good Docs for better Developer Experience.
 
 ## ToolChain Team
 
-[![John](https://github.shuttercorp.net/avatars/u/1065?s=60)](https://github.shuttercorp.net/jmccormack) 
-![](https://github.shuttercorp.net/avatars/u/1233?s=60) [Dan Robinson ](https://github.shuttercorp.net/drobinson)
-![](https://github.shuttercorp.net/avatars/u/977?s=60) [Shawn Qureshi](https://github.shuttercorp.net/squreshi)
-![](https://github.shuttercorp.net/avatars/u/1116?s=60) [Josh Durbin](https://github.shuttercorp.net/jdurbin)
+[![John](https://github.shuttercorp.net/avatars/u/1065?s=60)](https://github.shuttercorp.net/jmccormack)
+[![](https://github.shuttercorp.net/avatars/u/1233?s=60)](https://github.shuttercorp.net/drobinson)
+[![](https://github.shuttercorp.net/avatars/u/977?s=60)](https://github.shuttercorp.net/squreshi)
+[![](https://github.shuttercorp.net/avatars/u/1116?s=60)](https://github.shuttercorp.net/jdurbin)
 
 
 
