@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Layout
-parent: jenkins
+parent: Jenkins Pipeline
 ---
 
 
