@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Serverless
-nav_order: 1
+title: Serverless in Shutterstock
+nav_order: 3
 ---
 
 ## Table of contents
@@ -25,8 +25,4 @@ Serverless Solutions and best practices: [#serverless](https://shutterstock.slac
 
 
 ### The Team 
-
-![John McCormack](https://avatars.githubusercontent.com/u/5584582?s=60&v=4)
-
-https://github.com/toonjohners
 

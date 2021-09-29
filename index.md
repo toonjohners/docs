@@ -9,7 +9,7 @@ permalink: /
 # Cloud-ToolChain Docs 
 {: .fs-9 }
 
-Writing Good Docs for better Developer Experience. \
+Writing Good Docs for better Developer Experience. \  
 NOTE: This site is currently being developed and is a work in progress. Over the coming months we will be working on making our docs easier to read and a better experience of how to guides and FAQ.  
 
 {: .fs-6 .fw-300 }
