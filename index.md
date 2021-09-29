@@ -10,6 +10,8 @@ permalink: /
 {: .fs-9 }
 
 Writing Good Docs for better Developer Experience.
+NOTE: This site is currently being developed and is a work in progress. Over the coming months we will be working on making our docs easier to read and a better experience of how to guides and FAQ.  
+
 {: .fs-6 .fw-300 }
 
 [Slack](https://shutterstock.slack.com/archives/C02A7QW1079){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [JIRA Board](https://shutterstock-jira.codefactori.com/projects/CLDTC/issues){: .btn .fs-5 .mb-4 .mb-md-0 } [Github Docs](https://github.shuttercorp.net/Cloud-Engineering/docs){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -22,6 +24,27 @@ Writing Good Docs for better Developer Experience.
 [![](https://github.shuttercorp.net/avatars/u/1233?s=60)](https://github.shuttercorp.net/drobinson)
 [![](https://github.shuttercorp.net/avatars/u/977?s=60)](https://github.shuttercorp.net/squreshi)
 [![](https://github.shuttercorp.net/avatars/u/1116?s=60)](https://github.shuttercorp.net/jdurbin)
+
+
+## Contact Details 
+
+Slack: #cloud-toolchain
+Jira: CLDTC
+Email: tech.cloud-toolchain@shutterstock.com
+Confluence: [Cloud ToolChain Team Page](https://shutterstock-confluence.codefactori.com/display/OP/Cloud+Engineering+and+Architecture)
+
+## Team Responsibilities 
+
+- Jenkins Pipeline design and rodamap 
+- Serverless Pipeline support & build 
+- AWS - All things Serverless
+- Artifact managemaent - Artifactory & AWS Code Artifact
+- Github
+- RabbitMQ & CloudAMQP
+- Life cycle management of supported platforms (selection, build, update, replacement)
+- Defining and documenting best practices and standards covering Availability, DR, Security, Cost and Performance.
+- Work with development teams on planning, building and deploying new cloud services.
+
 
 ### Contributing
 
